@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Dhageu\Desktop\eq2\main\main\main.cpp(39,5): error C2561: eq2::find_X: функция должна возвращать значение
-C:\Users\Dhageu\Desktop\eq2\main\main\main.cpp(20): message : см. объявление "eq2::find_X"
