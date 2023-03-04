@@ -1,2 +1,0 @@
-C:\Users\Student\Desktop\eq2\main\Debug\main.exe
-C:\Users\Student\Desktop\eq2\main\Debug\main.pdb
