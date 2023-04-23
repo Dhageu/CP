@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\56\Desktop\9\1\main\main\main.cpp(54,23): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\56\Desktop\9\1\main\main\main.cpp(55,23): warning C4305: аргумент: усечение из "double" в "float"
+  main.vcxproj -> C:\Users\56\Desktop\9\1\main\x64\Debug\main.exe
